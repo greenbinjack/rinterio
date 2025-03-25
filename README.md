@@ -1,1 +1,6 @@
-This repository contains a responsive (small and large device only) construction company website developed using <b>HTML</b> and <b>Tailwind CSS</b>.
+## Rinterio
+Rinterio is a modern, responsive website designed for an architecture and design firm. This website showcases various design styles, from residential to commercial spaces, with a clean, minimalistic layout that emphasizes beautiful imagery, user-friendly navigation, and a clear presentation of services offered.
+
+### Technologies Used
+- HTML5
+- TailwindCSS
